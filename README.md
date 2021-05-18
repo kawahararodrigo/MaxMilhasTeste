@@ -24,7 +24,8 @@ http://localhost/v1/search/{cep}
 
 Instalação e Configuração:
 
-Fazer o clone projeto
+Fazer o clone projeto: git clone https://github.com/kawahararodrigo/MaxMilhasTeste
+
 
 Acessar o diretório api-consumer-correios 
 Renomear .env.example  para .env
