@@ -14,8 +14,11 @@ Lumen Framework
 
 Endpoint API Consumer Correios.
 
+
 http://localhost
+
 http://localhost/v1/healthy
+
 http://localhost/v1/search/{cep}
 
 
