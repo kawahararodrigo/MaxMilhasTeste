@@ -41,7 +41,10 @@ Arquivo Vagrantfile configurado para subir o Zabbix
 Placa de rede em brigde 
 Redirecionamente 80 8080
 
+Executar o comando vagrant up  após concluir vagrant ssh
+
 Acesso ao Zabbix : http://localhost:8080/zabbix/   ou http://IP/zabbix/
+
 
 #Usuário defaut#  
 Login: Admin
