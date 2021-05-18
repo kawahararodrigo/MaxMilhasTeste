@@ -27,7 +27,7 @@ Instalação e Configuração:
 Fazer o clone projeto: git clone https://github.com/kawahararodrigo/MaxMilhasTeste
 
 
-Acessar o diretório api-consumer-correios 
+Acessar o diretório MaxMilhasTeste
 Renomear .env.example  para .env
 
 Instalar dependências do projeto com: composer install
